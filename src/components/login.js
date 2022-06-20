@@ -42,8 +42,7 @@ export const Login = () => {
         <input type="submit" value="login" className="button" />
       
       </form>
-      
-      <ToastContainer autoClose={12000}/>
+       <ToastContainer autoClose={12000}/>
     </div>
   )
 }
