@@ -1,0 +1,113 @@
+.error{
+  color: red;
+    margin: 0;
+    font-size: 13px;
+}
+.button{
+  border-radius: 8px;
+  height: 30px;
+  font-weight: 500;
+  width: 270px;
+  border-color: white;
+  background-color: cornflowerblue;
+}
+
+.div1 {
+  width:300px;
+  height: 300px;  
+  padding-top: 5%;
+  border: 1px white;
+  background-color: white;
+  border-radius: 15px;
+}
+.container {
+ 
+ background-color: lightblue;
+}
+.input{
+padding: 3px;
+border-radius: 7px;
+margin: 12px;
+border-color: aliceblue;
+}
+
+.reg-container {
+ margin: 30px;
+ padding: 30px;
+ background-color: lightblue;
+
+ }
+
+ .div2 {
+  width: 500px;
+  height: 550px;  
+  padding-top: 5%;
+  border: 1px white;
+  background-color: white;
+  border-radius: 15px;
+}
+
+.dashboard{
+  margin: 0px;
+ 
+}
+
+.dash-div {
+  width: 80%;
+  height:60%;  
+  border: 1px white;
+  margin: 50px;
+}
+
+.searchbar{
+  margin-left: 65%;
+}
+.table{
+  border: 1px;
+  border-color: white;
+  border-collapse: collapse;
+  padding: 30px;
+  width: 100%;
+  color: white;
+  background-color: black;
+}
+.create-btn{
+  margin-right: 85%;
+  border-radius: 6px;
+  background-color: orange;
+  color: black;
+  border-color: none;
+  border-width: 0;
+}
+.header{
+  position: fixed;
+  width: 100%;
+}
+.div-post{
+  padding-top: 50px;
+  
+}
+
+.container-post {
+ margin: 40px;
+ height: 500px;
+
+ background-color: lightblue;
+ }
+ .back{
+   margin-left: 90%;
+   margin-top:2% ;
+   background-color: black;
+   width: 70px;
+   border-radius: 5px;
+   color: white;
+ }
+ .div4{
+    background-color: burlywood;
+    width: 50%;
+    height:60%;  
+    border: 1px white;
+    margin-top:50px;
+    margin-left:25%;
+  
+}
